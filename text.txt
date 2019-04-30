@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5082-62AD
+
+ Directory of C:\Users\Vijayalakshmi Huddar\Desktop\arvs
+
+29-04-2019  21:38    <DIR>          .
+29-04-2019  21:38    <DIR>          ..
+29-04-2019  21:38                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  324,727,115,776 bytes free
